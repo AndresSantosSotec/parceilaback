@@ -26,6 +26,4 @@ Thumbs.db
 
 # Archivos con credenciales sensibles
 CREDENCIALES_USUARIOS.md
-database/seeders/UserProdSeeder.php
-database/seeders/CreateSuperAdminSeeder.php
 
